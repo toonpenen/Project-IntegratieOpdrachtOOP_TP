@@ -1,0 +1,3 @@
+﻿2,The Shining,Stanley Kubrick,1980,false,false,true,DVD0005
+0,Dracula,Bram Stoker, 1897,false,false,true,BOE0005
+1,Peanuts,Charles M. Schulz,1950,false,false,true,STR0005

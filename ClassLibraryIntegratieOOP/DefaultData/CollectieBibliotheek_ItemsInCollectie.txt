@@ -1,0 +1,20 @@
+﻿0,Bijbel,God,2020,false,false,false,BOE0000
+0,Meditations,Marcus Aurelius,2006,false,false,false,BOE0001
+0,Harry Potter,J.K. Rowling,2020,false,false,false,BOE0002
+0,Clifford for President,Mark Mcveigh,2004,false,false,false,BOE0003
+0,The Republic,Plato,2000,false,false,false,BOE0004
+1,Sin City,Frank Miller,1991,false,false,false,STR0000
+1,Berserk,Kentaro Miura,1989,false,false,false,STR0001
+1,Suske en Wiske,Willy Vandersteen,1945,false,false,false,STR0002
+1,Jommeke,Jef Neys,1955,false,false,false,STR0003
+1,Tin Tin,Hergé,1929,false,false,false,STR0004
+2,Spider-Man,Sam Raimi,2002,false,false,false,DVD0000
+2,American Psycho,Mary Harron,2000,false,false,false,DVD0001
+2,Yojimbo,Akira Kurosawa,1961,false,false,false,DVD0002
+2,Bambi,James Algar,1942,false,false,false,DVD0003
+2,Dr Strangelove,Stanley Kubrick,1964,false,false,false,DVD0004
+3,Bad,Michael Jackson,1987,false,false,false,MCD0000
+3,MNM Big Hits,MNM,2020,false,false,false,MCD0001
+3,Het Beste van K3 ,K3,2015,false,false,false,MCD0002
+3,Mint Jams,Casiopea,1982,false,false,false,MCD0003
+3,Plop,Studio 100,2001,false,false,false,MCD0004

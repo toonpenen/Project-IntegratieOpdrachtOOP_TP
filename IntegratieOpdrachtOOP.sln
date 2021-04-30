@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegratieOpdrachtOOP", "IntegratieOpdrachtOOP\IntegratieOpdrachtOOP.csproj", "{C1FAF182-2618-4BF0-AD8F-58A1FB59F51A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryIntegratieOOP", "ClassLibraryIntegratieOOP\ClassLibraryIntegratieOOP.csproj", "{7C2AFCE6-2BA7-40B0-B745-72F18935738C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1FAF182-2618-4BF0-AD8F-58A1FB59F51A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1FAF182-2618-4BF0-AD8F-58A1FB59F51A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1FAF182-2618-4BF0-AD8F-58A1FB59F51A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1FAF182-2618-4BF0-AD8F-58A1FB59F51A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C2AFCE6-2BA7-40B0-B745-72F18935738C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C2AFCE6-2BA7-40B0-B745-72F18935738C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C2AFCE6-2BA7-40B0-B745-72F18935738C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C2AFCE6-2BA7-40B0-B745-72F18935738C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9292BF39-DC65-405C-8EA5-07782BA283DB}
+	EndGlobalSection
+EndGlobal
